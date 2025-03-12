@@ -1,4 +1,4 @@
-# Kinematic Analysis of a Simple Robot Arm
+# Kinematic Analysis of a Robot Arm
 
 ## Objective
 This mini-project aims to perform a kinematic analysis of a simple robot arm (3 DoF or more) using servo motors. The analysis includes:
@@ -45,13 +45,6 @@ Compute the Jacobian matrix of the manipulator to analyze velocity relationships
 │   ├── working_video.mp4      # Placeholder for working video
 ├── README.md              # Project description
 ```
-
-## Installation & Dependencies
-1. Install necessary Python packages:
-   ```bash
-   pip install numpy scipy matplotlib sympy
-   ```
-2. Ensure compatibility with hardware components (servo/stepper motor drivers).
 
 
 ## Media
