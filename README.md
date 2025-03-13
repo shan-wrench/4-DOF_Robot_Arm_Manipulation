@@ -42,7 +42,7 @@ Compute the Jacobian matrix of the manipulator to analyze velocity relationships
 ├── Source_Codes/                   # Source code for kinematics and control
 ├── media/                 # Images and videos of the robot arm
 │   ├── robot_arm_photo.jpg    # Placeholder for robot arm photo
-│   ├── working_video.mp4      # Placeholder for working video
+│   ├── Working_Video.mp4      # Placeholder for working video
 ├── README.md              # Project description
 ```
 
@@ -52,7 +52,7 @@ Compute the Jacobian matrix of the manipulator to analyze velocity relationships
 ![Robot Arm](media/robot_arm_photo.jpg)
 
 ### Working Video
-[![Working Video](media/working_video.mp4)](media/working_video.mp4)
+[![Working Video](media/Working_Video.mp4)](media/Working_Video.mp4)
 
 ## Contributors
 - **Dissanayaka D.M.S.P.**
