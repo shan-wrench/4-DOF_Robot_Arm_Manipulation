@@ -58,6 +58,7 @@ Compute the Jacobian matrix of the manipulator to analyze velocity relationships
 - **Dissanayaka D.M.S.P.**
 - **Wickramasingha M.P.D.N.**
 - **Kulasingham P.N.**
+  
 
 
 
