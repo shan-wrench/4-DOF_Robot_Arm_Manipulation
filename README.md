@@ -1,7 +1,7 @@
 # Kinematic Analysis of a Robot Arm
 
 ## Objective
-This mini-project aims to perform a kinematic analysis of a simple robot arm (3 DoF or more) using servo motors. The analysis includes:
+This mini-project aims to perform a kinematic analysis of a simple robot arm (4 DOF) using servo motors. The analysis includes:
 - Creating a Denavit-Hartenberg (DH) table
 - Computing forward kinematics
 - Deriving inverse kinematics
